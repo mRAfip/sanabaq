@@ -157,7 +157,7 @@ h6{
 
 /* Title Classes */
 .title-xlarge{
-	font-size: 7.749rem;
+	font-size: 5.749rem;
 	line-height: 1.2;
 }
 .title-large{
@@ -395,12 +395,12 @@ body,
 	color: #333;
 }
 .bkg-charcoal{
-	background-color: #232323; 
+	background-color: #232323;
 	border-color: #232323;
 }
 .bkg-hover-charcoal:hover{
-	background-color: #232323; 
-	border-color: #232323;
+	background-color: #871436;
+	border-color: #871436;
 }
 .border-charcoal,
 .border-hover-charcoal:hover{
